@@ -1,0 +1,16 @@
+C:\Users\ZERO\source\repos\flinder\flinder\bin\Release\flinder.exe.config
+C:\Users\ZERO\source\repos\flinder\flinder\bin\Release\flinder.exe
+C:\Users\ZERO\source\repos\flinder\flinder\bin\Release\flinder.pdb
+C:\Users\ZERO\source\repos\flinder\flinder\obj\Release\ConversationPreview.g.cs
+C:\Users\ZERO\source\repos\flinder\flinder\obj\Release\MainWindow.g.cs
+C:\Users\ZERO\source\repos\flinder\flinder\obj\Release\App.g.cs
+C:\Users\ZERO\source\repos\flinder\flinder\obj\Release\flinder_MarkupCompile.cache
+C:\Users\ZERO\source\repos\flinder\flinder\obj\Release\flinder_MarkupCompile.lref
+C:\Users\ZERO\source\repos\flinder\flinder\obj\Release\ConversationPreview.baml
+C:\Users\ZERO\source\repos\flinder\flinder\obj\Release\MainWindow.baml
+C:\Users\ZERO\source\repos\flinder\flinder\obj\Release\flinder.g.resources
+C:\Users\ZERO\source\repos\flinder\flinder\obj\Release\flinder.Properties.Resources.resources
+C:\Users\ZERO\source\repos\flinder\flinder\obj\Release\flinder.csproj.GenerateResource.Cache
+C:\Users\ZERO\source\repos\flinder\flinder\obj\Release\flinder.csproj.CoreCompileInputs.cache
+C:\Users\ZERO\source\repos\flinder\flinder\obj\Release\flinder.exe
+C:\Users\ZERO\source\repos\flinder\flinder\obj\Release\flinder.pdb
